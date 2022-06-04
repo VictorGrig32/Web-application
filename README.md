@@ -1,5 +1,5 @@
 # Web-application
-<p align="center"></p>
+
 <p align="center">
 <h2>Описание проекта</h2>
 Данное веб-приложение позволяет управлять raid-массивом:
