@@ -3,9 +3,9 @@
 <h2>Описание проекта</h2>
 Данное веб-приложение позволяет управлять raid-массивом:
 <ol>
-<li>- создание raid-массива</li>
-<li>- удаление raid-массива</li>
-<li>- просмотр состояния raid-массива</li>
+<li> создание raid-массива</li>
+<li> удаление raid-массива</li>
+<li> просмотр состояния raid-массива</li>
 </ol>
 <li><a href="https://github.com/VictorGrig32/Web-application/tree/main/raid_manager-main">Исходный код проекта</a></li>
 <h2>Документация:</h2>
@@ -15,6 +15,6 @@
 <li><a href="https://github.com/VictorGrig32/MyMarks/blob/cfdbd713422b47a7b4548b96efeb2a3c2812d373/documents/Kursovaya_mymarks.pdf">Текст для защиты</a>
 </li>
 <h2>Для запуска приложения необходимо скачать код проекта и ввести команды:</h2>
-<li>- sudo python3 /путь/ index.py</li>
-<li>- ввести пароль к учётной записи</li>
+<li> sudo python3 /путь/ index.py</li>
+<li> ввести пароль к учётной записи</li>
 
