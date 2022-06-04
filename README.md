@@ -7,9 +7,8 @@
 <li>- создание raid-массива</li>
 <li>- удаление raid-массива</li>
 <li>- просмотр состояния raid-массива</li>
-<ol>
-<li><a href="https://github.com/VictorGrig32/MyMarks/tree/main/Project">Исходный код проекта</a></li>
 </ol>
+<li><a href="https://github.com/VictorGrig32/MyMarks/tree/main/Project">Исходный код проекта</a></li>
 <h2>Документация:</h2>
 <ul>
 <li><a href="https://github.com/VictorGrig32/MyMarks/tree/main/documents/Диаграммы">Диплом</a></li>
