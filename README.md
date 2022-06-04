@@ -15,6 +15,5 @@
 <li><a href="https://github.com/VictorGrig32/Evaluator/blob/843e6c3e0c2af266ecc065ed5c93d11a7b10d4b1/documents/Tekhnicheskoe_zadanie_5_komanda.pdf">Презентация</a></li>
 <li><a href="https://github.com/VictorGrig32/MyMarks/blob/cfdbd713422b47a7b4548b96efeb2a3c2812d373/documents/Kursovaya_mymarks.pdf">Текст для защиты</a>
 </li>
-<ol>
 Данное веб-приложение позволяет управлять raid-массивом:
 
