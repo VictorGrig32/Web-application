@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAID MANAGER</title>
+
+    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">RAID MANAGER</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-4 mb-lg-0">
+                {% for key, val in menu.items() %}
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="/{{key}}">{{val}}</a>
+                </li>
+                {% endfor %}
+            </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container px-4" style="margin-top: 20px;">
+        <div class="badge bg-primary text-wrap">
+            <p class="fs-1">Статус RAID-массива</p>
+        </div>
+        <div class="col-md-auto" style="margin-top: 20px;">
+            {% for row in status %}
+            <p class="font-monospace">{{row}}</p>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>
