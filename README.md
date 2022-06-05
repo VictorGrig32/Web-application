@@ -13,9 +13,8 @@
 
 <h2>Документация:</h2>
 <ul>
-<li><a href="https://github.com/VictorGrig32/MyMarks/tree/main/documents/Диаграммы">Диплом</a></li>
-<li><a href="">Презентация</a></li>
-<li><a href="">Текст для защиты</a></li>
+<li><a href="https://github.com/VictorGrig32/Web-application/blob/main/Documets/Григоренко%20Виктор%20Русланович.pdf">Диплом</a></li>
+<li><a href="https://github.com/VictorGrig32/Web-application/blob/main/Documets/Prezentatsia.pdf">Презентация</a></li>
 </ul>
 
 <h2>Запуск приложения</h2>
